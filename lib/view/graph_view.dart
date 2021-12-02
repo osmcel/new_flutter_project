@@ -16,7 +16,7 @@ class _GraphViewState extends State<GraphView> {
         title: const Text("GraphView Screen"),
       ),
       body: Center(
-        child: const Text("Grafik Ekranı"),
+        child: const Text("Grafik Ekranı2"),
       ),
     );
   }
